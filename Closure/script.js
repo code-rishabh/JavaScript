@@ -11,10 +11,10 @@ function changeSize(x) {
     return changeFont;
 }
 
-const font10 = changeSize(10);
-const font20 = changeSize(20);
-const font30 = changeSize(30);
-const font40 = changeSize(40);
+const font10 = changeSize(30);
+const font20 = changeSize(40);
+const font30 = changeSize(60);
+const font40 = changeSize(70);
 
 
 fontTen.addEventListener('click', font10);
